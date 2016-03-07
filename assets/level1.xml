@@ -1,0 +1,98 @@
+<items>
+    <static-block pic="redbrick.png" x="0" y="0"/>
+    <static-block pic="redbrick.png" x="1" y="0"/>
+    <static-block pic="redbrick.png" x="2" y="0"/>
+    <static-block pic="redbrick.png" x="3" y="0"/>
+    <static-block pic="redbrick.png" x="4" y="0"/>
+    <static-block pic="redbrick.png" x="5" y="0"/>
+    <static-block pic="redbrick.png" x="6" y="0"/>
+    <static-block pic="redbrick.png" x="7" y="0"/>
+    <static-block pic="redbrick.png" x="8" y="0"/>
+    <static-block pic="redbrick.png" x="9" y="0"/>
+    <static-block pic="redbrick.png" x="10" y="0"/>
+    <static-block pic="redbrick.png" x="11" y="0"/>
+    <static-block pic="redbrick.png" x="12" y="0"/>
+    <static-block pic="redbrick.png" x="13" y="0"/>
+    <static-block pic="redbrick.png" x="14" y="0"/>
+    <static-block pic="redbrick.png" x="15" y="0"/>
+    <static-block pic="redbrick.png" x="16" y="0"/>
+    <static-block pic="redbrick.png" x="17" y="0"/>
+    <static-block pic="redbrick.png" x="18" y="0"/>
+    <static-block pic="dirt.png" x="19" y="0"/>
+	
+    <static-block pic="redbrick.png" x="0" y="1"/>
+    <static-block pic="redbrick.png" x="18" y="1"/>
+    <static-block pic="dirt.png" x="19" y="1"/>
+    
+    <static-block pic="redbrick.png" x="0" y="2"/>
+    <animated-block pic="cup1.png,cup2.png,cup3.png,cup4.png,cup3.png,cup2.png,cup1.png" x="11" y="2"/>
+    <static-block pic="redbrick.png" x="18" y="2"/>
+     <static-block pic="dirt.png" x="19" y="2"/>
+     
+    <static-block pic="redbrick.png" x="0" y="3"/>
+    <static-block pic="redbrick.png" x="3" y="3"/>
+    <static-block pic="redbrick.png" x="7" y="3"/>
+    <static-block pic="redbrick.png" x="11" y="3"/>
+    <static-block pic="redbrick.png" x="15" y="3"/>
+    <static-block pic="redbrick.png" x="18" y="3"/>
+    <static-block pic="dirt.png" x="19" y="3"/>
+    
+    <static-block pic="redbrick.png" x="0" y="4"/>
+    <static-block pic="redbrick.png" x="18" y="4"/>
+    <static-block pic="dirt.png" x="19" y="4"/>
+    
+    <static-block pic="redbrick.png" x="0" y="5"/>
+    <static-block pic="redbrick.png" x="1" y="5"/>
+    <static-block pic="redbrick.png" x="5" y="5"/>
+    <static-block pic="redbrick.png" x="9" y="5"/>
+    <static-block pic="redbrick.png" x="13" y="5"/>
+    <static-block pic="redbrick.png" x="17" y="5"/>
+    <static-block pic="redbrick.png" x="18" y="5"/>
+    <static-block pic="dirt.png" x="19" y="5"/>
+    
+    <static-block pic="redbrick.png" x="0" y="6"/>
+    <static-block pic="redbrick.png" x="18" y="6"/>
+    <static-block pic="dirt.png" x="19" y="6"/>
+    
+    <static-block pic="redbrick.png" x="0" y="7"/>
+    <static-block pic="redbrick.png" x="4" y="7"/>
+    <static-block pic="redbrick.png" x="5" y="7"/>
+    <static-block pic="redbrick.png" x="6" y="7"/>
+    <static-block pic="redbrick.png" x="7" y="7"/>
+    <static-block pic="redbrick.png" x="11" y="7"/>
+    <static-block pic="redbrick.png" x="12" y="7"/>
+    <static-block pic="redbrick.png" x="13" y="7"/>
+    <static-block pic="redbrick.png" x="14" y="7"/>
+    <static-block pic="redbrick.png" x="15" y="7"/>
+    <static-block pic="redbrick.png" x="16" y="7"/>
+    <static-block pic="redbrick.png" x="18" y="7"/>
+    <static-block pic="dirt.png" x="19" y="7"/>
+    
+    <static-block pic="redbrick.png" x="0" y="8"/>
+    <static-block pic="pipe.png" x="1" y="8"/>
+    <dave pic="dave1.png,dave2.png,dave3.png,dave4.png,dave5.png,dave6.png,dave7.png" x="2" y="8"/>
+    <static-block pic="redbrick.png" x="11" y="8"/>
+    <static-block pic="redbrick.png" x="18" y="8"/>
+    <static-block pic="dirt.png" x="19" y="8"/>
+    
+    <static-block pic="redbrick.png" x="0" y="9"/>
+    <static-block pic="redbrick.png" x="1" y="9"/>
+    <static-block pic="redbrick.png" x="2" y="9"/>
+    <static-block pic="redbrick.png" x="3" y="9"/>
+    <static-block pic="redbrick.png" x="4" y="9"/>
+    <static-block pic="redbrick.png" x="5" y="9"/>
+    <static-block pic="redbrick.png" x="6" y="9"/>
+    <static-block pic="redbrick.png" x="7" y="9"/>
+    <static-block pic="redbrick.png" x="8" y="9"/>
+    <static-block pic="redbrick.png" x="9" y="9"/>
+    <static-block pic="redbrick.png" x="10" y="9"/>
+    <static-block pic="redbrick.png" x="11" y="9"/>
+    <static-block pic="redbrick.png" x="12" y="9"/>
+    <static-block pic="redbrick.png" x="13" y="9"/>
+    <static-block pic="redbrick.png" x="14" y="9"/>
+    <static-block pic="redbrick.png" x="15" y="9"/>
+    <static-block pic="redbrick.png" x="16" y="9"/>
+    <static-block pic="redbrick.png" x="17" y="9"/>
+    <static-block pic="redbrick.png" x="18" y="9"/>
+    <static-block pic="dirt.png" x="19" y="9"/>
+</items>
