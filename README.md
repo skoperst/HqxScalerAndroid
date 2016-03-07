@@ -1,5 +1,8 @@
 # HqxScalerAndroid
-Hqx scaler implementation for Android
+Hqx scaler implementation for Android 
+
+Written by Ivan Memruk
+
 
 Android screenshot:  
 ![demo1](dave_demo.png)
