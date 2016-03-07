@@ -1,8 +1,8 @@
 # HqxScalerAndroid
 Hqx scaler implementation for Android
 
-Android screenshot:
+Android screenshot:  
 ![demo1](dave_demo.png)
 
-Another implementation:
+Another implementation:  
 ![demo2](yoshi_demo.png)
